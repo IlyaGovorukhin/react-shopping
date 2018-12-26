@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "title": "Наручные часы ",
+    "itemsClock": "кварцевые цифровые пластиковый корпус браслет: нерж. сталь",
+    "author": "CASIO LA-670WEM-7",
+    "image":
+      "https://avatars.mds.yandex.net/get-mpic/466729/img_id5171025446500450659.jpeg/6hq",
+    "price": 1710,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "Наручные часы ",
+    "itemsClock": "кварцевые мужские цифровые водонепроницаемость: WR30 (брызги, дождь)",
+    "author": "CASIO LA-670WEGA-1E",
+    "image":
+      "https://avatars.mds.yandex.net/get-mpic/96484/img_id5764255275620605886/6hq",
+    "price": 1415,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Наручные часы ",
+    "itemsClock": "кварцевые женские цифровые пластиковый корпус браслет: нерж. сталь",
+    "author": "CASIO LA-670WEA-7E",
+    "image":
+      "https://avatars.mds.yandex.net/get-mpic/96484/img_id5016032792024258162/6hq",
+    "price": 1464,
+    "rating": 4
+  }
+]
